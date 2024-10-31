@@ -168,3 +168,11 @@ a {
   border-radius: 10px;
   background-color: #3992f6;
 }
+
+.footer_background {
+  background-color: #1f2937;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
