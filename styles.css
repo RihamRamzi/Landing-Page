@@ -130,3 +130,41 @@ a {
   width: 90%;
   font-weight: 500;
 }
+
+/* action  */
+
+.action_background {
+  display: flex;
+  justify-content: center;
+}
+
+.action {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+  width: 60%;
+  padding: 50px;
+  background-color: #3992f6;
+  color: #e5e7eb;
+  border-radius: 9px;
+}
+
+.action_text {
+  flex: 2;
+  margin-left: 10%;
+}
+
+.sign_up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+.sign_up button {
+  padding: 10px 50px;
+  border: 2px solid #e5e7eb;
+  color: #e5e7eb;
+  font-weight: 700;
+  border-radius: 10px;
+  background-color: #3992f6;
+}
