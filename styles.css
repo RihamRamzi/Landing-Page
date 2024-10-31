@@ -77,7 +77,7 @@ a {
 
 .head_image img {
   height: 200px;
-  width: 80%;
+  width: 70%;
 }
 
 #info_header {
@@ -105,4 +105,28 @@ a {
 }
 .sub p {
   text-align: center;
+}
+
+.grey_background {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  padding: 100px;
+}
+
+.Quote {
+  width: 60%;
+}
+.Quote p {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
+#writer {
+  text-align: end;
+  width: 90%;
+  font-weight: 500;
 }
